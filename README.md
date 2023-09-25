@@ -1,4 +1,5 @@
 # Boston Property Analysis 2023
+## 37 zip codes, 19 cities
 
 ## Table of Contents
 - [Project Overview](#projectoverview)
@@ -7,7 +8,8 @@
 - [Interesting Facts](#keyinsights)
 
 ## Project Overview
-In this project, I conducted an analysis on ____ Boston property records from years 1700 to 202, to showcase key insights and effective visualizations aimed at providing a high-level overview of properties in the Boston area by cost and city.
+
+In this project, I conducted an analysis on 154948 Boston property records from years 1700 to 202, to showcase key insights and effective visualizations aimed at providing a high-level overview of properties in the Boston area by cost and city.
 
 ## Data Source
 This dataset was downloaded as a csv from Boston Open Source Data and came in with over 50 columns.
@@ -29,31 +31,28 @@ Exploratory Data Analysis and Data Visualizations:
 
 Tableau dashboard: 
 
-## Key Insights
+## Key Insights:
+
+--***Top 5 most expensive cities: Readville, Boston, Roxbury Crossing, Allston, Brookline*** <br>
+--***Top 5 cheapest cities: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton***
+
+
+--Boston has 24 zip codes
 
 ## Interesting Facts
-- Which city has the most expensive property (highest building value)? <br>
-- Which city has the largest property (highest gross_area)? <br>
-- Which city has the oldest property (yr_built)? <br>
+--Boston has the most expensive building a 2.14 billion.
+-- East Boston has the largest property at 6.9 million sq ft.
+-- Jamaica Plain has the oldest building, built in 1700.
 
 
---154948 observations
 -- No nulls for PID
 --no columns with more than 60% missing data
 --since don't have enough information about data collection cannot fill in missing values
 
 --avg ignores null values
 
--- Top 5 most expensive: Readville, Boston, Roxbury Crossing, Allston, Brookline
--- Top 5 cheapest: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton
 
---37 zip codes
--- 19 cities
---Boston has 24 zip codes
 
---Boston has the most expensive building a 2.14 billion.
--- East Boston has the largest property at 6.9 million sq ft.
--- Jamaica Plain has the oldest building in 1700
 
 
 
