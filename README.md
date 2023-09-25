@@ -37,6 +37,25 @@ Tableau dashboard:
 - Which city has the oldest property (yr_built)? <br>
 
 
+--154948 observations
+-- No nulls for PID
+--no columns with more than 60% missing data
+--since don't have enough information about data collection cannot fill in missing values
+
+--avg ignores null values
+
+-- Top 5 most expensive: Readville, Boston, Roxbury Crossing, Allston, Brookline
+-- Top 5 cheapest: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton
+
+--37 zip codes
+-- 19 cities
+--Boston has 24 zip codes
+
+--Boston has the most expensive building a 2.14 billion.
+-- East Boston has the largest property at 6.9 million sq ft.
+-- Jamaica Plain has the oldest building in 1700
+
+
 
 
 
