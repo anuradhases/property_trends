@@ -29,7 +29,7 @@ Exploratory Data Analysis and Data Visualizations:
 - What are the top 10 most expensive properties per city? <br>
 - How does land value, building value, total value and gross tax change with year built based on property type and city? <br>
 
-Tableau dashboard: https://public.tableau.com/app/profile/anuradha.s6397/viz/Boston_Property_Analysis_23/BostonPropertyDashboard?publish=yes
+[Tableau dashboard](https://public.tableau.com/app/profile/anuradha.s6397/viz/Boston_Property_Analysis_23/BostonPropertyDashboard?publish=yes>)
 
 ## Key Insights:
 
