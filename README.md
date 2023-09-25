@@ -10,8 +10,9 @@
 In this project, I conducted an analysis on ____ Boston property records from years 1700 to 202, to showcase key insights and effective visualizations aimed at providing a high-level overview of properties in the Boston area by cost and city.
 
 ## Data Source
-This dataset was downloaded from Boston Open Source Data and came in with over 50 columns. 
-Details of each column were provided here and 
+This dataset was downloaded as a csv from Boston Open Source Data and came in with over 50 columns.
+Data cleaning and analysis was done in both PostgreSQL and Snowflake.
+Details of each column were provided here and
 In order to have an effective analysis, 20 columns were selected.
 This left with __ relevant columns. 
 In order to determine which columns were relevant, 
@@ -25,7 +26,6 @@ Exploratory Data Analysis and Data Visualizations:
 - What is the average portion of gross tax based on total value for each city? <br>
 - What are the top 10 most expensive properties per city? <br>
 - How does land value, building value, total value and gross tax change with year built based on property type and city? <br>
-
 
 Tableau dashboard: 
 
