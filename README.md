@@ -1,6 +1,14 @@
-# property_and_salary_trends
-Analysis of Boston property 2023 data.
+# Boston Property Analysis 2023
 
+## Table of Contents
+- [Project Overview](#projectoverview)
+- [Data Source](#datasource)
+- [Key Insights](#keyinsights)
+- [Interesting Facts](#keyinsights)
+
+## Project Overview
+
+## Data Source
 This dataset was downloaded from Boston Open Source Data and came in with over 50 columns. 
 In order to have an effective analysis, 20 columns were selected.
 This left with __ relevant columns. 
@@ -20,7 +28,9 @@ Exploratory Data Analysis and Data Visualizations:
 
 Tableau dashboard: 
 
-Interesting Facts:
+## Key Insights
+
+## Interesting Facts
 - Which city has the most expensive property (highest building value)? <br>
 - Which city has the largest property (highest gross_area)? <br>
 - Which city has the oldest property (yr_built)? <br>
