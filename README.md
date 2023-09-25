@@ -1,41 +1,32 @@
 # property_and_salary_trends
-Analysis of Boston property and salary 2023 data.
+Analysis of Boston property 2023 data.
 
-USE case: 
-I want to know what the most affordable property to buy would be (in terms of cost) with factors such as
-city, year, size, remodeled, number of rooms, condition,
+This dataset was downloaded from Boston Open Source Data and came in with over 50 columns. 
+In order to have an effective analysis, 20 columns were selected.
+This left with __ relevant columns. 
+In order to determine which columns were relevant, the use case was determined as high-level overview of 
+of properties in the Boston area by cost.
 
-or not
-and amenities (AC type/heat type), parking.
-And drawbacks
-owner occupied.
+After first look at the dataset, the following questions came to mind.
 
-which city is best to buy my next property,
-and which year is best?
-What type of property should I buy?
-Should I be remodeled?
+Exploratory Data Analysis and Data Visualizations:
+How many zipcodes and cities are included in the dataset?
+What is the average property cost for all cities?
+What is the average land, property, and total cost and gross tax based on city? (most expensive and least expensive)
+What is the average portion of gross tax based on total value for each city?
+What are the top 10 most expensive properties per city?
+How does land value, building value, total value and gross tax change with year built based on property type and city?
 
---STATISTICS TO COMPUTE:
---Average land, building, and total value and gross tax based on city
---What is the average portion of total value is gross tax for each city?
---Average building value for Boston
 
---Number of zip codes in Dataset
---Number of zip codes per city
+Tableau dashboard: 
+
+Interesting Facts:
 --Which city has the most expensive property(highest building value)?
 --Which city has the largest property(highest gross_area)?
 --Which city has the oldest property(yr_built)?
 
---GRAPHS:
---How does land value, building value, total value and gross tax change with year built?
---How does the proportion of living area to gross area affect total value?
---How does building value change with year remodeled?
---Does the time between year built and year remodeled affect building value?
 
---How does building value change with type of building?
---What is the distribution of heat and AC type?
---Does building value increase with total rooms, bedrooms, full_bth, hlf_bth and kitchens?
---How does building value change with condition(overall, internal and external)?
---How does total value change as number of buildings and number of parking spaces increases?
---Does owner occupied affect building value?
+
+
+
 
