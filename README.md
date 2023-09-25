@@ -1,5 +1,5 @@
 # Boston Property Analysis 2023
-## 37 zip codes, 19 cities
+## 19 cities, 194 property types
 
 ## Table of Contents
 - [Project Overview](#projectoverview)
@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-In this project, I conducted an analysis on 154948 Boston property records from years 1700 to 202, to showcase key insights and effective visualizations aimed at providing a high-level overview of properties in the Boston area by cost and city.
+In this project, I conducted an analysis on 154948 Boston property records from 1700 to 2022, aimed at providing a high-level overview of properties in the Boston area by cost and city.
 
 ## Data Source
 This dataset was downloaded as a csv from Boston Open Source Data and came in with over 50 columns.
@@ -29,27 +29,23 @@ Exploratory Data Analysis and Data Visualizations:
 - What are the top 10 most expensive properties per city? <br>
 - How does land value, building value, total value and gross tax change with year built based on property type and city? <br>
 
-Tableau dashboard: 
+Tableau dashboard: https://public.tableau.com/app/profile/anuradha.s6397/viz/Boston_Property_Analysis_23/BostonPropertyDashboard?publish=yes
 
 ## Key Insights:
 
---***Top 5 most expensive cities: Readville, Boston, Roxbury Crossing, Allston, Brookline*** <br>
---***Top 5 cheapest cities: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton***
+- ***Top 5 most expensive cities: Readville, Boston, Roxbury Crossing, Allston, Brookline*** <br>
+- ***Top 5 cheapest cities: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton***
 
-
---Boston has 24 zip codes
+- 37 zip codes
+- Boston has 24 zip codes
 
 ## Interesting Facts
---Boston has the most expensive building a 2.14 billion.
--- East Boston has the largest property at 6.9 million sq ft.
--- Jamaica Plain has the oldest building, built in 1700.
+- **Boston** has the most expensive building a **2.14 billion**.
+- **East Boston** has the largest property at **6.9 million sq ft**.
+- **Jamaica Plain** has the oldest building, built in **1700**.
 
 
--- No nulls for PID
---no columns with more than 60% missing data
---since don't have enough information about data collection cannot fill in missing values
 
---avg ignores null values
 
 
 
