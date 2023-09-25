@@ -7,13 +7,14 @@
 - [Interesting Facts](#keyinsights)
 
 ## Project Overview
+In this project, I conducted an analysis on ____ Boston property records from years 1700 to 202, to showcase key insights and effective visualizations aimed at providing a high-level overview of properties in the Boston area by cost and city.
 
 ## Data Source
 This dataset was downloaded from Boston Open Source Data and came in with over 50 columns. 
+Details of each column were provided here and 
 In order to have an effective analysis, 20 columns were selected.
 This left with __ relevant columns. 
-In order to determine which columns were relevant, the use case was determined as high-level overview of 
-of properties in the Boston area by cost.
+In order to determine which columns were relevant, 
 
 After first look at the dataset, the following questions came to mind.
 
