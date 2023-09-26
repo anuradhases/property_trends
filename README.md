@@ -24,7 +24,7 @@ After first look at the dataset, the following questions came to mind.
 Exploratory Data Analysis and Data Visualizations:
 - How many zipcodes and cities are included in the dataset? <br>
 - What is the average property cost for all cities? <br>
-- What is the average land, property, and total cost and gross tax based on city? (most expensive and least expensive)  <br>
+- What are the top 5 most expensive and top 5 cheapest cities based on average land, property, and total cost and gross tax based on total cost? <br>
 - What is the average portion of gross tax based on total value for each city? <br>
 - What are the top 10 most expensive properties per city? <br>
 - How does land value, building value, total value and gross tax change with year built based on property type and city? <br>
