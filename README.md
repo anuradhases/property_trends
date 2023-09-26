@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Project Overview](#projectoverview)
 - [Key Insights](#keyinsights)
-- [Interesting Facts](#keyinsights)
+- [Interesting Facts](#interestingfacts)
 
 ## Project Overview
 
