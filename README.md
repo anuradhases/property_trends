@@ -41,7 +41,7 @@ It answers how property costs varies with city(s), property type(s) and year bui
 
 
 
-<img src = "https://github.com/anuradhases/property_trends/assets/49212192/cdeb21da-18e9-4d82-8571-4c3ea7182a3d" width = 750 height= 550 >
+<img src = "https://github.com/anuradhases/property_trends/assets/49212192/d20864b9-f805-412f-a8d7-38deaa76700b" width = 750 height= 550 >
 
 
 
