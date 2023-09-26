@@ -17,7 +17,7 @@ The [data](https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/
 
 After first look at the dataset, the following questions came to mind.<br>
 - How many zipcodes and cities are included in the dataset? <br>
-- What is the average property cost for all cities? <br>
+- What are the average land cost, building cost and total property cost for all cities? <br>
 - What are the top 5 most expensive and top 5 cheapest cities based on the averages of land cost, building cost, total property cost, gross tax, and gross tax portion of total cost? <br>
 - What are the averages of land cost, building cost, total property cost, gross tax, and gross tax portion of total cost for each city? <br>
 - What are the top 10 cheapest property types per city? <br>
@@ -31,7 +31,10 @@ It answers how property costs varies with city(s), property type(s) and year bui
 ## Key Insights:
 - **Top 5 most expensive cities: Readville, Boston, Roxbury Crossing, Allston, Brookline** <br>
 - **Top 5 cheapest cities: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton**
-- **Average property cost: 1.12 million**
+- **Land is siginificantly cheaper than buildings and properties with:**
+- **Average land cost: 376,000**
+- **Average building cost: 1.12 million**
+- **Average property cost: 1.5 million**
 
 
 ## Interesting Facts:
