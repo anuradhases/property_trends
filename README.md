@@ -35,7 +35,7 @@ It answers how property costs varies with city(s), property type(s) and year bui
 
 
 ## Interesting Facts:
-- **Boston** has the most expensive building a **2.14 billion**.
+- **Boston** has the most expensive building at **2.14 billion**.
 - **East Boston** has the largest property at **6.9 million sq ft**.
 - **Jamaica Plain** has the oldest building, built in **1700**.
 
