@@ -31,7 +31,7 @@ It answers how property costs varies with city(s), property type(s) and year bui
 ## Key Insights:
 - **Top 5 most expensive cities: Readville, Boston, Roxbury Crossing, Allston, Brookline** <br>
 - **Top 5 cheapest cities: Dedham, Chesnut Hill, Hyde Park, Mattapan, Newton**
-- **Land is siginificantly cheaper than buildings and properties with:**
+- **Land is significantly cheaper than buildings and properties with:**
 - **Average land cost: 376,000**
 - **Average building cost: 1.12 million**
 - **Average property cost: 1.5 million**
