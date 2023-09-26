@@ -20,7 +20,7 @@ After first look at the dataset, the following questions came to mind.<br>
 - What is the average property cost for all cities? <br>
 - What are the top 5 most expensive and top 5 cheapest cities based on the averages of land cost, building cost, total property cost, gross tax, and gross tax portion of total cost? <br>
 - What are the averages of land cost, building cost, total property cost, gross tax, and gross tax portion of total cost for each city? <br>
-- What are the top 10 most expensive property types per city? <br>
+- What are the top 10 cheapest property types per city? <br>
 - How does total property cost change with city and property type? <br>
 - How does land, building, and total property cost, and gross tax change with year built based on property type and city? <br>
 
@@ -41,7 +41,7 @@ It answers how property costs varies with city(s), property type(s) and year bui
 
 
 
-<img src = "https://github.com/anuradhases/property_trends/assets/49212192/86a17de8-1d59-432c-bffa-c04e11b7f882" width = 750 height= 550 >
+<img src = "https://github.com/anuradhases/property_trends/assets/49212192/cdeb21da-18e9-4d82-8571-4c3ea7182a3d" width = 750 height= 550 >
 
 
 
