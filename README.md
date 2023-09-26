@@ -1,5 +1,5 @@
 # Boston Property Analysis 2023
-## 19 cities, 194 property types
+## 19 cities, 194 property types, 150K properties
 
 ## Table of Contents
 - [Project Overview](#projectoverview)
@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-In this project, I conducted an analysis on 154948 Boston property records from 1700 to 2022, aimed at providing a high-level overview of properties in the Boston area by cost and city.
+In this project, I conducted an analysis on 154948 Boston property records from 1700 to 2022, aimed at providing a high-level overview of properties in the Boston area by cost, property type, and city.
 
 ## Data Source
 This dataset was downloaded as a csv from Boston Open Source Data and came in with over 50 columns.
@@ -29,6 +29,8 @@ Exploratory Data Analysis and Data Visualizations:
 - What are the top 10 most expensive properties per city? <br>
 - How does land value, building value, total value and gross tax change with year built based on property type and city? <br>
 
+This Tableau dashbaord provides a visual reprentation of Boston area property costs and property types.
+It answers how property costs varies with city(s), property type(s) and year built.<br>
 [Tableau dashboard](https://public.tableau.com/app/profile/anuradha.s6397/viz/Boston_Property_Analysis_23/BostonPropertyDashboard?publish=yes>)
 
 ## Key Insights:
