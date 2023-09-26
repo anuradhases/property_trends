@@ -183,8 +183,10 @@ FROM average_property_value_stats
 ORDER BY avg_prpty_total_cost ASC, avg_building_cost ASC, avg_land_cost ASC
 LIMIT 5;
 
---Average total property cost for Boston
-SELECT ROUND(AVG("PRPTY_TOTAL_COST"::float)) AS avg_prprty_cost_Boston
+--Average land, building and total property cost for all cities
+SELECT ROUND(AVG("LAND_COST"::float)) AS avg_land_cost_Boston,
+ROUND(AVG("BUILDING_COST"::float)) AS avg_building_cost_Boston,
+ROUND(AVG("PRPTY_TOTAL_COST"::float)) AS avg_prpty_cost_Boston
 FROM boston_property_details_cleaned;
 
 --Number of zip codes in Dataset
