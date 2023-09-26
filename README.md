@@ -39,7 +39,9 @@ It answers how property costs varies with city(s), property type(s) and year bui
 - **East Boston** has the largest property at **6.9 million sq ft**.
 - **Jamaica Plain** has the oldest building, built in **1700**.
 
-<img src = "https://github.com/anuradhases/property_trends/assets/49212192/4c9ea713-0d50-468c-b50b-94f8d09c6125" width = 800 height= 600 >
+
+
+<img src = "https://github.com/anuradhases/property_trends/assets/49212192/86a17de8-1d59-432c-bffa-c04e11b7f882" width = 750 height= 550 >
 
 
 
