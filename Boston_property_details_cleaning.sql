@@ -183,11 +183,9 @@ FROM average_property_value_stats
 ORDER BY avg_prpty_total_cost ASC, avg_building_cost ASC, avg_land_cost ASC
 LIMIT 5;
 
-
---Average building cost for Boston
-SELECT ROUND(AVG("BUILDING_COST"::float)) AS avg_building_cost_Boston
+--Average total property cost for Boston
+SELECT ROUND(AVG("PRPTY_TOTAL_COST"::float)) AS avg_prprty_cost_Boston
 FROM boston_property_details_cleaned;
--- 1.12 millon 
 
 --Number of zip codes in Dataset
 SELECT COUNT(DISTINCT("ZIP_CODE")) AS number_of_zip_codes
