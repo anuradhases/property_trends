@@ -10,7 +10,7 @@
 
 In this project, I conducted an analysis on 154948 Boston property records from 1700 to 2022, aimed at providing a high-level overview of properties in the Boston area by cost, property type, and city.
 
-The [data](https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/1000d81c-5bb5-49e8-a9ab-44cd042f1db2/download/fy2023-property-assessment-data.csv) was downloaded as a csv from Analyze Boston and came in with 50+ columns. Data was copied into a database in PostgreSQL and [Snowflake](BostonPropertyDetails_Snowflake_use_case.pdf). Data cleaning and analysis was done in both PostgreSQL and [Snowflake](BostonPropertyDetails_Snowflake_use_case.pdf). Using the [Boston Property Data key](https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/4973f23e-859e-4190-b308-8223c246147e/download/property-assessment-fy2023-data-key.pdf), irrelevant variables were removed, resulting in 28 relevant variables.<br>
+The [data](https://data.boston.gov/dataset/property-assessment/resource/1000d81c-5bb5-49e8-a9ab-44cd042f1db2) was downloaded as a csv from Analyze Boston and came in with 50+ columns. Data was copied into a database in PostgreSQL and [Snowflake](BostonPropertyDetails_Snowflake_use_case.pdf). Data cleaning and analysis was done in both PostgreSQL and [Snowflake](BostonPropertyDetails_Snowflake_use_case.pdf). Using the [Boston Property Data key](https://data.boston.gov/dataset/property-assessment/resource/4973f23e-859e-4190-b308-8223c246147e), irrelevant variables were removed, resulting in 28 relevant variables.<br>
 
 
 
